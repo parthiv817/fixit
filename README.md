@@ -6,7 +6,7 @@ FIXIT is a dedicated platform designed to connect blue-collar workers with job o
 
 Whether you're a skilled worker looking for your next opportunity or a business seeking reliable talent, FIXIT is here to make the process effortless and rewarding.
 
-**Live Website**: [Visit FIXIT]([https://your-deployed-site-link.com](https://rozgarhubbluecollarjob.netlify.app/))
+**Live Website**: [Visit FIXIT]([https://rozgarhubbluecollarjob.netlify.app/])
 ---
 
 ## Overview
