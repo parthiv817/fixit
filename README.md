@@ -1,6 +1,6 @@
 # 🔧 FIXIT Frontend
 
-![FIXIT UI Preview](./preview.png)
+![FIXIT UI Preview](.frontend/preview.png)
 
 FIXIT is a dedicated platform designed to connect blue-collar workers with job opportunities tailored to their skills and expertise.
 
