@@ -39,6 +39,6 @@ Whether you're a skilled worker looking for your next opportunity or a business 
 ### Installation
 
 ```bash
-git clone https://github.com/parthiv817/fixit-frontend.git
-cd fixit-frontend
+git clone https://github.com/parthiv817/frontend.git
+cd frontend
 npm install
