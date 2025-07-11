@@ -28,9 +28,9 @@ Whether you're a skilled worker looking for your next opportunity or a business 
 ##  Tech Stack
 
 - **Framework**: React (with Vite/CRA)
-- **Styling**: Tailwind CSS / CSS Modules / SCSS
+- **Styling**: Tailwind CSS / CSS Modules 
 - **Routing**: React Router DOM
-- **State Management**: Context API / Redux (if used)
+
 
 ---
 
