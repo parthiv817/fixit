@@ -1,6 +1,10 @@
-# FIXIT Frontend
+# 🔧 FIXIT Frontend
 
-This is the frontend for **FIXIT**, a platform dedicated to connecting blue-collar workers with job opportunities tailored to their skills and expertise.
+![FIXIT UI Preview](./preview.png)
+
+FIXIT is a dedicated platform designed to connect blue-collar workers with job opportunities tailored to their skills and expertise.
+
+Whether you're a skilled worker looking for your next opportunity or a business seeking reliable talent, FIXIT is here to make the process effortless and rewarding.
 
 ---
 
@@ -36,10 +40,6 @@ Whether you're a skilled worker looking for your next opportunity or a business 
 - Node.js (v16+)
 - npm or yarn
 
-## Screenshots
-
-### 🔹 Home Page
-![Homepage](src/assets/mockups/homepage.png)
 
 ### Installation
 
